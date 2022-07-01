@@ -1,0 +1,24 @@
+{
+  "name": "samay",
+  "version": "1.0.0",
+  "description": "date formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramvipul96/samay.git"
+  },
+  "keywords": [
+    "samay",
+    "date",
+    "formats"
+  ],
+  "author": "vipul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramvipul96/samay/issues"
+  },
+  "homepage": "https://github.com/ramvipul96/samay#readme"
+}
